@@ -6,5 +6,3 @@ imports
 ###Web Scraping- BeautifulSoup
 ###requests
 ###Pandas
-
-[web scraping.zip](https://github.com/ChinmayG1601/web-scraping-/files/10890828/web.scraping.zip)
